@@ -6,7 +6,7 @@
 * Automated test cases design and development
   * automation testing of Web applications
 * Manual test cases design and development
-* mentoring
+* Mentoring
 
 ## Tools and Technologies:
 * Cypress, have some experience C#/.NET Core UI(Selenium WebDriver)/API testing, webdriver.io UI testing
