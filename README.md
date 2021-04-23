@@ -1,16 +1,21 @@
-### Hi there 👋
+# Pavel Gradobik
 
-<!--
-**pavelgradobik/pavelgradobik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Test engineer (Automation/Manual)  
+* (ISTQB® Certified Tester, Foundation Level, 17-CTFL-114723-03).
+* 6+ years experience in software testing.
+* Automated test cases design and development
+  * automation testing of Web applications
+* Manual test cases design and development
+* mentoring
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and Technologies:
+* Cypress, have some experience C#/.NET Core UI(Selenium WebDriver)/API testing, webdriver.io UI testing
+* __Programming Language:__ JS/TS
+* __CI:__ Azure DevOps
+* __VCS:__ GitHub, Bitbucket
+* __Test design techniques:__ Equivalence Partitioning, Boundary Value Analysis, etc
+* __Documentation:__ test cases, checklists, user cases, bug reports
+* __Basic knowledge:__ SQL, REST, JSON
+* __Databases:__ MySQL
+* __Bug Tracking Systems and Test Management Tools:__ Azure DevOps, Jira
+* __Other Tools:__ Fiddler, Postman, Selenium WebDriver, etc
