@@ -19,6 +19,9 @@ reports, etc.);
 * ISTQB® Certified Tester, Foundation Level (17-CTFL-114723-03);
 * English: upper-intermediate
 
+## Education:
+Master`s Degree, Semiconductor Physics and Electronics, RadiophysicsFaculty, Semiconductor Physics Dep., Taras Shevchenko National University of Kyiv, Ukraine.
+
 ## Tools and Technologies:
 * Cypress, have some experience C#/.NET Core UI(Selenium WebDriver)/API testing, webdriver.io UI testing
 * __Programming Language:__ JS/TS
