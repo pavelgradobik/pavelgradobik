@@ -1,12 +1,23 @@
 # Pavel Gradobik
 
-## Test engineer (Automation/Manual)  
-* (ISTQB® Certified Tester, Foundation Level, 17-CTFL-114723-03).
-* 6+ years experience in software testing.
-* Automated test cases design and development
-  * automation testing of Web applications
-* Manual test cases design and development
-* Mentoring
+## AQA Engineer 
+* 8+ years of professional experience in the Information Technology industry specializing in Quality Assurance, including automation and manual testing domains;
+* Development of automated tests (Cypress, playwright, webdriver.io ...);
+* TS/JS;
+* Testing of web applications (automated, manual);
+* Testing of client-server applications (API testing);
+* Experience with CI tools (Azure DevOps);
+* Basic experience in Bash scripting;
+* Some basic experience C# / .NET;
+* Wide range of software testing expertise and QA skills:
+* Test strategy implementation and test scope design;
+* Design of test documentation (test suites, test cases, test coverage, test plans, bug
+reports, etc.);
+* Support of test environments;
+* Experience of working in large distributed teams;
+* Mentoring;
+* ISTQB® Certified Tester, Foundation Level (17-CTFL-114723-03);
+* English: upper-intermediate
 
 ## Tools and Technologies:
 * Cypress, have some experience C#/.NET Core UI(Selenium WebDriver)/API testing, webdriver.io UI testing
