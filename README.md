@@ -44,4 +44,5 @@ Manual QA, QA Automation engineer, 2014 - 2017
 * __Bug Tracking Systems and Test Management Tools:__ Azure DevOps, Jira
 * __Other Tools:__ Fiddler, Postman, Selenium WebDriver, etc
 
-#### [CV](https://drive.google.com/file/d/13xJQaYD5fWXVR26iBqJfCIIaLBILeiXO/view?usp=sharing)
+#### [Pavlo Gradobik CV GitHub .pdf](https://pavelgradobik.github.io/cv/about/Pavlo_Gradobik_AQA_CV.pdf)
+#### [Pavlo Gradobik CV Google Drive](https://docs.google.com/document/d/12kJk0J9cY2safAP19LHI2IgMRth6hDEQ0FgJ4IO0Jc4/edit?usp=sharing)
