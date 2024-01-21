@@ -22,6 +22,16 @@ reports, etc.);
 ## Education:
 Master`s Degree, Semiconductor Physics and Electronics, RadiophysicsFaculty, Semiconductor Physics Dep., Taras Shevchenko National University of Kyiv, Ukraine.
 
+Work Experience:
+* DataArt Solutions, Inc.: 
+QA Automation Engineer, 2021 - Present
+* Materialise: 
+QA Automation Engineer, 2017 - 2021
+* Solidopinion: 
+Manual QA, QA Automation engineer, 2014 - 2017
+* JTalks (open source project): Manual QA, 2013-2014
+
+
 ## Tools and Technologies:
 * Cypress, have some experience C#/.NET Core UI(Selenium WebDriver)/API testing, webdriver.io UI testing
 * __Programming Language:__ JS/TS
