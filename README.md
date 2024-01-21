@@ -33,16 +33,16 @@ Manual QA, QA Automation engineer, 2014 - 2017
 
 
 ## Tools and Technologies:
-* Cypress, have some experience C#/.NET Core UI(Selenium WebDriver)/API testing, webdriver.io UI testing
-* __Programming Language:__ JS/TS
-* __CI:__ Azure DevOps
-* __VCS:__ GitHub, Bitbucket
-* __Test design techniques:__ Equivalence Partitioning, Boundary Value Analysis, etc
-* __Documentation:__ test cases, checklists, user cases, bug reports
-* __Basic knowledge:__ SQL, REST, JSON
-* __Databases:__ MySQL
-* __Bug Tracking Systems and Test Management Tools:__ Azure DevOps, Jira
-* __Other Tools:__ Fiddler, Postman, Selenium WebDriver, etc
+* Automation tools and frameworks: Cypress, Playwright, JS / TS, GOT, have some experience with C#/.NET Core UI(Selenium WebDriver), and Bash scripting.
+* Functional UI and API testing.
+* Programming Language: JS/TS.
+* CI: Azure DevOps.
+* VCS: GitHub, SVN.
+* Test design techniques: Equivalence Partitioning, Boundary Value Analysis, etc. ∙ Documentation: test cases, checklists, user cases, bug reports.
+* Basic knowledge: SQL, REST, JSON, C#/.NET, SOAP.
+* Databases: MongoDB, PostgreSQL MySQL.
+* Bug Tracking Systems and Test Management Tools: Azure DevOps, Jira, Test Rail. ∙
+* Other Tools: Fiddler, Postman, Selenium WebDriver, etc. English: upper-intermediate
 
 #### [Pavlo Gradobik CV GitHub .pdf](https://pavelgradobik.github.io/cv/about/Pavlo_Gradobik_AQA_CV.pdf)
 #### [Pavlo Gradobik CV Google Drive](https://docs.google.com/document/d/12kJk0J9cY2safAP19LHI2IgMRth6hDEQ0FgJ4IO0Jc4/edit?usp=sharing)
